@@ -1,5 +1,5 @@
 // link on GitHub
-//https://github.com/Ro98h/Cards.git
+//https://github.com/Ro98h/Cards
 
 public enum Rank {
     ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN,
